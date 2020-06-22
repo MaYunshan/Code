@@ -1,0 +1,6 @@
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe.config
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csprojResolveAssemblyReference.cache
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\bin\Debug\超市收银系统.pdb
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
+D:\12345C#\project\超市收银系统\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb

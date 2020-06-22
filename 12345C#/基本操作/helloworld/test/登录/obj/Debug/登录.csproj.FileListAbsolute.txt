@@ -1,0 +1,6 @@
+D:\12345C#\基本操作\helloworld\test\登录\bin\Debug\登录.exe.config
+D:\12345C#\基本操作\helloworld\test\登录\bin\Debug\登录.exe
+D:\12345C#\基本操作\helloworld\test\登录\bin\Debug\登录.pdb
+D:\12345C#\基本操作\helloworld\test\登录\obj\Debug\登录.exe
+D:\12345C#\基本操作\helloworld\test\登录\obj\Debug\登录.pdb
+D:\12345C#\基本操作\helloworld\test\登录\obj\Debug\登录.csprojResolveAssemblyReference.cache

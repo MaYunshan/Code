@@ -1,0 +1,6 @@
+D:\12345C#\线程\线程同步\线程同步Lock\bin\Debug\线程同步Lock.exe.config
+D:\12345C#\线程\线程同步\线程同步Lock\bin\Debug\线程同步Lock.exe
+D:\12345C#\线程\线程同步\线程同步Lock\bin\Debug\线程同步Lock.pdb
+D:\12345C#\线程\线程同步\线程同步Lock\obj\Debug\线程同步Lock.exe
+D:\12345C#\线程\线程同步\线程同步Lock\obj\Debug\线程同步Lock.pdb
+D:\12345C#\线程\线程同步\线程同步Lock\obj\Debug\线程同步Lock.csprojResolveAssemblyReference.cache

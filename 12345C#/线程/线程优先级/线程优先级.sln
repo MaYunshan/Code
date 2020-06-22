@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "线程优先级", "线程优先级\线程优先级.csproj", "{78047963-B5C8-4903-B258-C247B01C48FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "插入线程", "插入线程\插入线程.csproj", "{95AFB09F-4C96-4307-A170-CA22EB02E0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "打印数字", "打印数字\打印数字.csproj", "{4DF7284A-99BA-42C8-854A-9583FAA3A899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78047963-B5C8-4903-B258-C247B01C48FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78047963-B5C8-4903-B258-C247B01C48FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78047963-B5C8-4903-B258-C247B01C48FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78047963-B5C8-4903-B258-C247B01C48FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AFB09F-4C96-4307-A170-CA22EB02E0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AFB09F-4C96-4307-A170-CA22EB02E0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AFB09F-4C96-4307-A170-CA22EB02E0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AFB09F-4C96-4307-A170-CA22EB02E0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF7284A-99BA-42C8-854A-9583FAA3A899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF7284A-99BA-42C8-854A-9583FAA3A899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF7284A-99BA-42C8-854A-9583FAA3A899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF7284A-99BA-42C8-854A-9583FAA3A899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

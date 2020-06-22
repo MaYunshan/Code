@@ -1,0 +1,17 @@
+<Students>
+	<stu>
+		<name>唐作程</name>
+		<age>20</age>
+		<sex>男</sex>
+	</stu>
+	<stu>
+		<name>唐作程1</name>
+		<age>21</age>
+		<sex>女</sex>
+	</stu>
+	<stu>
+		<name>唐作程2</name>
+		<age>22</age>
+		<sex>男</sex>
+	</stu>
+</Students>

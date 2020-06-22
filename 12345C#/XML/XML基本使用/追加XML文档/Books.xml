@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name>三国演义</Name>
+    <Price>20</Price>
+    <Dec>东汉末年的故事</Dec>
+  </Book>
+  <Book>
+    <Name>水浒传</Name>
+    <Price>30</Price>
+    <Dec>北宋末年108个人物的故事</Dec>
+  </Book>
+  <Book>
+    <Name>西游记</Name>
+    <Price>30</Price>
+    <Dec>唐玄奘和他的三个徒弟的故事</Dec>
+  </Book>
+  <Book>
+    <Name>西游记</Name>
+    <Price>30</Price>
+    <Dec>唐玄奘和他的三个徒弟的故事</Dec>
+  </Book>
+</Books>

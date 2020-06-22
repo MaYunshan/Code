@@ -1,0 +1,8 @@
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\bin\Debug\滚动窗口绘图.exe.config
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\bin\Debug\滚动窗口绘图.exe
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\bin\Debug\滚动窗口绘图.pdb
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\obj\Debug\滚动窗口绘图.Form1.resources
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\obj\Debug\滚动窗口绘图.Properties.Resources.resources
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\obj\Debug\滚动窗口绘图.csproj.GenerateResource.Cache
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\obj\Debug\滚动窗口绘图.exe
+D:\12345C#\图形图像\基本图形的绘制\滚动窗口绘图\obj\Debug\滚动窗口绘图.pdb

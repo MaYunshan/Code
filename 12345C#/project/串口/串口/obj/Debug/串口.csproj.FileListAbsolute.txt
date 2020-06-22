@@ -1,0 +1,8 @@
+D:\12345C#\project\串口\串口\bin\Debug\串口.exe.config
+D:\12345C#\project\串口\串口\bin\Debug\串口.exe
+D:\12345C#\project\串口\串口\bin\Debug\串口.pdb
+D:\12345C#\project\串口\串口\obj\Debug\串口.Form1.resources
+D:\12345C#\project\串口\串口\obj\Debug\串口.Properties.Resources.resources
+D:\12345C#\project\串口\串口\obj\Debug\串口.csproj.GenerateResource.Cache
+D:\12345C#\project\串口\串口\obj\Debug\串口.exe
+D:\12345C#\project\串口\串口\obj\Debug\串口.pdb

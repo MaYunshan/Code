@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>张三</Name>
+    <Age>21</Age>
+    <Email>zhang</Email>
+  </Person>
+  <Person>
+    <Name>李四</Name>
+    <Age>18</Age>
+    <Email>li</Email>
+  </Person>
+  <Person>
+    <Name>王五</Name>
+    <Age>223</Age>
+    <Email>wang</Email>
+  </Person>
+  <Person>
+    <Name>赵六</Name>
+    <Age>24</Age>
+    <Email>zhao</Email>
+  </Person>
+</ArrayOfPerson>

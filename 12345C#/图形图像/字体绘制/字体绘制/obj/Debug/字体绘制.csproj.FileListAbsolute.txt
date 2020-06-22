@@ -1,0 +1,9 @@
+D:\12345C#\图形图像\字体绘制\字体绘制\bin\Debug\字体绘制.exe.config
+D:\12345C#\图形图像\字体绘制\字体绘制\bin\Debug\字体绘制.exe
+D:\12345C#\图形图像\字体绘制\字体绘制\bin\Debug\字体绘制.pdb
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.csprojResolveAssemblyReference.cache
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.Form1.resources
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.Properties.Resources.resources
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.csproj.GenerateResource.Cache
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.exe
+D:\12345C#\图形图像\字体绘制\字体绘制\obj\Debug\字体绘制.pdb

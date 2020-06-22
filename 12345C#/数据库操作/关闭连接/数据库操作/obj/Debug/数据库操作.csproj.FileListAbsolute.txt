@@ -1,0 +1,9 @@
+D:\12345C#\第十三章\关闭连接\数据库操作\bin\Debug\数据库操作.exe.config
+D:\12345C#\第十三章\关闭连接\数据库操作\bin\Debug\数据库操作.exe
+D:\12345C#\第十三章\关闭连接\数据库操作\bin\Debug\数据库操作.pdb
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.csprojResolveAssemblyReference.cache
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.Form1.resources
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.Properties.Resources.resources
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.csproj.GenerateResource.Cache
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.exe
+D:\12345C#\第十三章\关闭连接\数据库操作\obj\Debug\数据库操作.pdb

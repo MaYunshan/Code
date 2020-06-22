@@ -1,0 +1,7 @@
+D:\12345C#\数据类型基础\animals\animals\bin\Debug\animals.exe.config
+D:\12345C#\数据类型基础\集合\animals\animals\bin\Debug\animals.exe.config
+D:\12345C#\数据类型基础\集合\animals\animals\obj\Debug\animals.csprojResolveAssemblyReference.cache
+D:\12345C#\数据类型基础\集合\animals\animals\bin\Debug\animals.exe
+D:\12345C#\数据类型基础\集合\animals\animals\bin\Debug\animals.pdb
+D:\12345C#\数据类型基础\集合\animals\animals\obj\Debug\animals.exe
+D:\12345C#\数据类型基础\集合\animals\animals\obj\Debug\animals.pdb

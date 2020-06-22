@@ -1,0 +1,5 @@
+D:\12345C#\文件操作\文件流的操作\fileStream练习\bin\Debug\fileStream练习.exe.config
+D:\12345C#\文件操作\文件流的操作\fileStream练习\bin\Debug\fileStream练习.exe
+D:\12345C#\文件操作\文件流的操作\fileStream练习\bin\Debug\fileStream练习.pdb
+D:\12345C#\文件操作\文件流的操作\fileStream练习\obj\Debug\fileStream练习.exe
+D:\12345C#\文件操作\文件流的操作\fileStream练习\obj\Debug\fileStream练习.pdb

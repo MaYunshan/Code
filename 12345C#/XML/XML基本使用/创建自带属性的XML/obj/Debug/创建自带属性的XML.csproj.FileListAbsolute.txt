@@ -1,0 +1,6 @@
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\bin\Debug\创建自带属性的XML.exe.config
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\bin\Debug\创建自带属性的XML.exe
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\bin\Debug\创建自带属性的XML.pdb
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\obj\Debug\创建自带属性的XML.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\obj\Debug\创建自带属性的XML.exe
+D:\12345C#\XML\XML基本使用\创建自带属性的XML\obj\Debug\创建自带属性的XML.pdb

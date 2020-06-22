@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数据适配器", "数据适配器\数据适配器.csproj", "{8BDF8709-2185-4C6C-B071-1DE3FF13810F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "更新数据源", "更新数据源\更新数据源.csproj", "{7C6AF00A-9B91-49AD-BCCC-C6692E90A113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "合并dataset", "合并dataset\合并dataset.csproj", "{D1556B6B-91FA-4358-A7E4-4C8BA73669E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDF8709-2185-4C6C-B071-1DE3FF13810F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDF8709-2185-4C6C-B071-1DE3FF13810F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDF8709-2185-4C6C-B071-1DE3FF13810F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDF8709-2185-4C6C-B071-1DE3FF13810F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6AF00A-9B91-49AD-BCCC-C6692E90A113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6AF00A-9B91-49AD-BCCC-C6692E90A113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6AF00A-9B91-49AD-BCCC-C6692E90A113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6AF00A-9B91-49AD-BCCC-C6692E90A113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1556B6B-91FA-4358-A7E4-4C8BA73669E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1556B6B-91FA-4358-A7E4-4C8BA73669E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1556B6B-91FA-4358-A7E4-4C8BA73669E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1556B6B-91FA-4358-A7E4-4C8BA73669E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

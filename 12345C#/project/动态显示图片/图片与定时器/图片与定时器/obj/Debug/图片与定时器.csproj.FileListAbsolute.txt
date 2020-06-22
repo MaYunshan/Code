@@ -1,0 +1,8 @@
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\bin\Debug\图片与定时器.exe.config
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\obj\Debug\图片与定时器.Form1.resources
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\obj\Debug\图片与定时器.Properties.Resources.resources
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\obj\Debug\图片与定时器.csproj.GenerateResource.Cache
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\bin\Debug\图片与定时器.exe
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\bin\Debug\图片与定时器.pdb
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\obj\Debug\图片与定时器.exe
+D:\12345C#\project\动态显示图片\图片与定时器\图片与定时器\obj\Debug\图片与定时器.pdb

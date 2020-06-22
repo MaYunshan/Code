@@ -1,0 +1,9 @@
+D:\12345C#\project\串口1\串口1\bin\Debug\串口1.exe.config
+D:\12345C#\project\串口1\串口1\bin\Debug\串口1.exe
+D:\12345C#\project\串口1\串口1\bin\Debug\串口1.pdb
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.csprojResolveAssemblyReference.cache
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.Form1.resources
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.Properties.Resources.resources
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.csproj.GenerateResource.Cache
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.exe
+D:\12345C#\project\串口1\串口1\obj\Debug\串口1.pdb

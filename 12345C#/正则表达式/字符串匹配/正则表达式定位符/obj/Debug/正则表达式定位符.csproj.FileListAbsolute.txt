@@ -1,0 +1,6 @@
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\bin\Debug\正则表达式定位符.exe.config
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\bin\Debug\正则表达式定位符.exe
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\bin\Debug\正则表达式定位符.pdb
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\obj\Debug\正则表达式定位符.exe
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\obj\Debug\正则表达式定位符.pdb
+D:\12345C#\正则表达式\字符串匹配\正则表达式定位符\obj\Debug\正则表达式定位符.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取二进制文件", "读取二进制文件\读取二进制文件.csproj", "{5BF7C186-AE8E-4DDC-902B-07764E62EC0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileStream和stream", "fileStream和stream\fileStream和stream.csproj", "{A191C5D5-4D34-49C3-8E7F-7EDC48E17260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF7C186-AE8E-4DDC-902B-07764E62EC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF7C186-AE8E-4DDC-902B-07764E62EC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF7C186-AE8E-4DDC-902B-07764E62EC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF7C186-AE8E-4DDC-902B-07764E62EC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A191C5D5-4D34-49C3-8E7F-7EDC48E17260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A191C5D5-4D34-49C3-8E7F-7EDC48E17260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A191C5D5-4D34-49C3-8E7F-7EDC48E17260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A191C5D5-4D34-49C3-8E7F-7EDC48E17260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

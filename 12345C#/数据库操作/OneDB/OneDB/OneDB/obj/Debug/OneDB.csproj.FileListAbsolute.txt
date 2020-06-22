@@ -1,0 +1,9 @@
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\bin\Debug\OneDB.exe.config
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.csprojResolveAssemblyReference.cache
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.Form1.resources
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.Properties.Resources.resources
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.csproj.GenerateResource.Cache
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\bin\Debug\OneDB.exe
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\bin\Debug\OneDB.pdb
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.exe
+D:\12345C#\数据库操作\OneDB\OneDB\OneDB\obj\Debug\OneDB.pdb

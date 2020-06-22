@@ -1,0 +1,6 @@
+D:\12345C#\基本操作\多类型类\多类型类\bin\Debug\多类型类.exe.config
+D:\12345C#\基本操作\多类型类\多类型类\bin\Debug\多类型类.exe
+D:\12345C#\基本操作\多类型类\多类型类\bin\Debug\多类型类.pdb
+D:\12345C#\基本操作\多类型类\多类型类\obj\Debug\多类型类.csprojResolveAssemblyReference.cache
+D:\12345C#\基本操作\多类型类\多类型类\obj\Debug\多类型类.exe
+D:\12345C#\基本操作\多类型类\多类型类\obj\Debug\多类型类.pdb

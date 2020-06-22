@@ -1,0 +1,12 @@
+D:\12345C#\数据类型基础\按钮触发\按钮触发\bin\Debug\按钮触发.exe.config
+D:\12345C#\数据类型基础\按钮触发\按钮触发\bin\Debug\按钮触发.exe
+D:\12345C#\数据类型基础\按钮触发\按钮触发\bin\Debug\按钮触发.pdb
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.csprojResolveAssemblyReference.cache
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.Form1.resources
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.Properties.Resources.resources
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.csproj.GenerateResource.Cache
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.exe
+D:\12345C#\数据类型基础\按钮触发\按钮触发\obj\Debug\按钮触发.pdb
+D:\12345C#\数据类型基础\事件与委托\按钮触发\bin\Debug\按钮触发.exe.config
+D:\12345C#\数据类型基础\事件与委托\按钮触发\obj\Debug\按钮触发.exe
+D:\12345C#\数据类型基础\事件与委托\按钮触发\obj\Debug\按钮触发.pdb

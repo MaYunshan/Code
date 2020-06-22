@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\bin\Debug\fileStream和stream.exe.config
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\bin\Debug\fileStream和stream.exe
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\bin\Debug\fileStream和stream.pdb
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\obj\Debug\fileStream和stream.csprojResolveAssemblyReference.cache
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\obj\Debug\fileStream和stream.exe
+D:\12345C#\文件操作\读取二进制文件\fileStream和stream\obj\Debug\fileStream和stream.pdb

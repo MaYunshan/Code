@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\文件流的操作\文件流的操作\bin\Debug\文件流的操作.exe.config
+D:\12345C#\文件操作\文件流的操作\文件流的操作\bin\Debug\文件流的操作.exe
+D:\12345C#\文件操作\文件流的操作\文件流的操作\bin\Debug\文件流的操作.pdb
+D:\12345C#\文件操作\文件流的操作\文件流的操作\obj\Debug\文件流的操作.csprojResolveAssemblyReference.cache
+D:\12345C#\文件操作\文件流的操作\文件流的操作\obj\Debug\文件流的操作.exe
+D:\12345C#\文件操作\文件流的操作\文件流的操作\obj\Debug\文件流的操作.pdb

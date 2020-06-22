@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "菜单栏", "菜单栏\菜单栏.csproj", "{0B8C7740-E043-4924-8D7A-BBB34B196E11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工具栏", "工具栏\工具栏.csproj", "{306D8B93-B414-4375-B756-4B44147D94F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态栏", "状态栏\状态栏.csproj", "{09DC24D5-AD91-4120-AC11-FBA439560144}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8C7740-E043-4924-8D7A-BBB34B196E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8C7740-E043-4924-8D7A-BBB34B196E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8C7740-E043-4924-8D7A-BBB34B196E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8C7740-E043-4924-8D7A-BBB34B196E11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{306D8B93-B414-4375-B756-4B44147D94F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306D8B93-B414-4375-B756-4B44147D94F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306D8B93-B414-4375-B756-4B44147D94F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306D8B93-B414-4375-B756-4B44147D94F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DC24D5-AD91-4120-AC11-FBA439560144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DC24D5-AD91-4120-AC11-FBA439560144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DC24D5-AD91-4120-AC11-FBA439560144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DC24D5-AD91-4120-AC11-FBA439560144}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

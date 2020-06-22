@@ -1,0 +1,6 @@
+D:\12345C#\字符串\字符串操作\字符串操作\bin\Debug\字符串操作.exe.config
+D:\12345C#\字符串\字符串操作\字符串操作\bin\Debug\字符串操作.exe
+D:\12345C#\字符串\字符串操作\字符串操作\bin\Debug\字符串操作.pdb
+D:\12345C#\字符串\字符串操作\字符串操作\obj\Debug\字符串操作.csprojResolveAssemblyReference.cache
+D:\12345C#\字符串\字符串操作\字符串操作\obj\Debug\字符串操作.exe
+D:\12345C#\字符串\字符串操作\字符串操作\obj\Debug\字符串操作.pdb

@@ -1,0 +1,9 @@
+D:\12345C#\图形图像\图片格式\图片格式\bin\Debug\图片格式.exe.config
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.csprojResolveAssemblyReference.cache
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.Form1.resources
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.Properties.Resources.resources
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.csproj.GenerateResource.Cache
+D:\12345C#\图形图像\图片格式\图片格式\bin\Debug\图片格式.exe
+D:\12345C#\图形图像\图片格式\图片格式\bin\Debug\图片格式.pdb
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.exe
+D:\12345C#\图形图像\图片格式\图片格式\obj\Debug\图片格式.pdb

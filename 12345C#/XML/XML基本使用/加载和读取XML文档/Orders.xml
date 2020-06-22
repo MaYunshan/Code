@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<order>
+  <CustomName>刘洋</CustomName>
+  <OrderNumber>bj0000001</OrderNumber>
+  <Items>
+    <OrderItem Name="码表" Count="10" />
+    <OrderItem Name="手表" Count="10" />
+    <OrderItem Name="怀表" Count="10" />
+  </Items>
+</order>

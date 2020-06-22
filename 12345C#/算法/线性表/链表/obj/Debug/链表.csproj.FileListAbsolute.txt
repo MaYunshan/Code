@@ -1,0 +1,6 @@
+D:\12345C#\算法\线性表\链表\bin\Debug\链表.exe.config
+D:\12345C#\算法\线性表\链表\bin\Debug\链表.exe
+D:\12345C#\算法\线性表\链表\bin\Debug\链表.pdb
+D:\12345C#\算法\线性表\链表\obj\Debug\链表.csprojResolveAssemblyReference.cache
+D:\12345C#\算法\线性表\链表\obj\Debug\链表.exe
+D:\12345C#\算法\线性表\链表\obj\Debug\链表.pdb

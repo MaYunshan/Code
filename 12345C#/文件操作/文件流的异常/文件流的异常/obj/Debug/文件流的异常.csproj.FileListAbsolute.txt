@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\文件流的异常\文件流的异常\bin\Debug\文件流的异常.exe.config
+D:\12345C#\文件操作\文件流的异常\文件流的异常\bin\Debug\文件流的异常.exe
+D:\12345C#\文件操作\文件流的异常\文件流的异常\bin\Debug\文件流的异常.pdb
+D:\12345C#\文件操作\文件流的异常\文件流的异常\obj\Debug\文件流的异常.csprojResolveAssemblyReference.cache
+D:\12345C#\文件操作\文件流的异常\文件流的异常\obj\Debug\文件流的异常.exe
+D:\12345C#\文件操作\文件流的异常\文件流的异常\obj\Debug\文件流的异常.pdb

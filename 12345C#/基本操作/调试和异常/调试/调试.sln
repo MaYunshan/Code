@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "调试", "调试\调试.csproj", "{59885F72-E0E5-464A-88A6-84E3390F87ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "异常", "异常\异常.csproj", "{832BF2FD-2E8E-4346-AD4E-9152C2097F65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59885F72-E0E5-464A-88A6-84E3390F87ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59885F72-E0E5-464A-88A6-84E3390F87ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59885F72-E0E5-464A-88A6-84E3390F87ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59885F72-E0E5-464A-88A6-84E3390F87ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832BF2FD-2E8E-4346-AD4E-9152C2097F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832BF2FD-2E8E-4346-AD4E-9152C2097F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832BF2FD-2E8E-4346-AD4E-9152C2097F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832BF2FD-2E8E-4346-AD4E-9152C2097F65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

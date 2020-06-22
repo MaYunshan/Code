@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<order>
+  <CustomName>唐作程</CustomName>
+  <OrderNumber>BJ2008</OrderNumber>
+  <Item>
+    <OrderItem Name="电脑" Count="10" />
+    <OrderItem Name="电视" Count="30" />
+    <OrderItem Name="水杯" Count="20" />
+  </Item>
+</order>

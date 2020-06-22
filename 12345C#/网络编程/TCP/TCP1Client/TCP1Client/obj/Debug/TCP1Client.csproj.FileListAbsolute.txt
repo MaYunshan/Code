@@ -1,0 +1,9 @@
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\bin\Debug\TCP1Client.exe.config
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\bin\Debug\TCP1Client.exe
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\bin\Debug\TCP1Client.pdb
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.csprojResolveAssemblyReference.cache
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.Form1.resources
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.Properties.Resources.resources
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.csproj.GenerateResource.Cache
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.exe
+D:\12345C#\网络编程\TCP\TCP1Client\TCP1Client\obj\Debug\TCP1Client.pdb

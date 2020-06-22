@@ -1,0 +1,6 @@
+D:\12345C#\特性\特性1\特性1\bin\Debug\特性1.exe.config
+D:\12345C#\特性\特性1\特性1\bin\Debug\特性1.exe
+D:\12345C#\特性\特性1\特性1\bin\Debug\特性1.pdb
+D:\12345C#\特性\特性1\特性1\obj\Debug\特性1.csprojResolveAssemblyReference.cache
+D:\12345C#\特性\特性1\特性1\obj\Debug\特性1.exe
+D:\12345C#\特性\特性1\特性1\obj\Debug\特性1.pdb

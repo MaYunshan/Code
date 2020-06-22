@@ -1,0 +1,8 @@
+D:\12345C#\数据类型基础\CardLib\CardClient\bin\Debug\CardClient.exe.config
+D:\12345C#\数据类型基础\CardLib\CardClient\bin\Debug\CardClient.exe
+D:\12345C#\数据类型基础\CardLib\CardClient\bin\Debug\CardClient.pdb
+D:\12345C#\数据类型基础\CardLib\CardClient\bin\Debug\CardLib.dll
+D:\12345C#\数据类型基础\CardLib\CardClient\bin\Debug\CardLib.pdb
+D:\12345C#\数据类型基础\CardLib\CardClient\obj\Debug\CardClient.csprojResolveAssemblyReference.cache
+D:\12345C#\数据类型基础\CardLib\CardClient\obj\Debug\CardClient.exe
+D:\12345C#\数据类型基础\CardLib\CardClient\obj\Debug\CardClient.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<List>
+  <Person id="1" position="1">
+    <Name>赵六</Name>
+    <Age>20</Age>
+    <Sex>男</Sex>
+  </Person>
+  <Person id="2" position="2">
+    <Name>张三</Name>
+    <Age>21</Age>
+    <Sex>女</Sex>
+  </Person>
+  <Person id="3" position="1">
+    <Name>王五</Name>
+    <Age>22</Age>
+    <Sex>男</Sex>
+  </Person>
+  <Person id="4" position="3">
+    <Name>李四</Name>
+    <Age>23</Age>
+    <Sex>女</Sex>
+  </Person>
+</List>

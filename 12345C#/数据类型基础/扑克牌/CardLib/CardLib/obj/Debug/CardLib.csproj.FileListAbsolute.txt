@@ -1,0 +1,5 @@
+D:\12345C#\数据类型基础\CardLib\CardLib\bin\Debug\CardLib.dll
+D:\12345C#\数据类型基础\CardLib\CardLib\bin\Debug\CardLib.pdb
+D:\12345C#\数据类型基础\CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+D:\12345C#\数据类型基础\CardLib\CardLib\obj\Debug\CardLib.dll
+D:\12345C#\数据类型基础\CardLib\CardLib\obj\Debug\CardLib.pdb

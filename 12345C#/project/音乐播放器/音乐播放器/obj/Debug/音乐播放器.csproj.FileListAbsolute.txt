@@ -1,0 +1,9 @@
+D:\12345C#\project\音乐播放器\音乐播放器\bin\Debug\音乐播放器.exe.config
+D:\12345C#\project\音乐播放器\音乐播放器\bin\Debug\音乐播放器.exe
+D:\12345C#\project\音乐播放器\音乐播放器\bin\Debug\音乐播放器.pdb
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.csprojResolveAssemblyReference.cache
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.Form1.resources
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.Properties.Resources.resources
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.csproj.GenerateResource.Cache
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.exe
+D:\12345C#\project\音乐播放器\音乐播放器\obj\Debug\音乐播放器.pdb

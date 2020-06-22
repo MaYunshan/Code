@@ -1,0 +1,5 @@
+D:\12345C#\XML\XML基本使用\追加XML文档\bin\Debug\追加XML文档.exe.config
+D:\12345C#\XML\XML基本使用\追加XML文档\bin\Debug\追加XML文档.exe
+D:\12345C#\XML\XML基本使用\追加XML文档\bin\Debug\追加XML文档.pdb
+D:\12345C#\XML\XML基本使用\追加XML文档\obj\Debug\追加XML文档.exe
+D:\12345C#\XML\XML基本使用\追加XML文档\obj\Debug\追加XML文档.pdb

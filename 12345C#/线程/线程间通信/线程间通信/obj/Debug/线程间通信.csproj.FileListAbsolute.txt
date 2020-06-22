@@ -1,0 +1,6 @@
+D:\12345C#\线程\线程间通信\线程间通信\bin\Debug\线程间通信.exe.config
+D:\12345C#\线程\线程间通信\线程间通信\bin\Debug\线程间通信.exe
+D:\12345C#\线程\线程间通信\线程间通信\bin\Debug\线程间通信.pdb
+D:\12345C#\线程\线程间通信\线程间通信\obj\Debug\线程间通信.csprojResolveAssemblyReference.cache
+D:\12345C#\线程\线程间通信\线程间通信\obj\Debug\线程间通信.exe
+D:\12345C#\线程\线程间通信\线程间通信\obj\Debug\线程间通信.pdb

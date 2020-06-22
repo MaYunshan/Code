@@ -1,0 +1,10 @@
+D:\12345C#\第十一章\接口\接口\bin\Debug\接口.exe.config
+D:\12345C#\第十一章\接口\接口\bin\Debug\接口.exe
+D:\12345C#\第十一章\接口\接口\bin\Debug\接口.pdb
+D:\12345C#\第十一章\接口\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache
+D:\12345C#\第十一章\接口\接口\obj\Debug\接口.exe
+D:\12345C#\第十一章\接口\接口\obj\Debug\接口.pdb
+D:\12345C#\基本操作\接口\接口\bin\Debug\接口.exe.config
+D:\12345C#\基本操作\接口\接口\obj\Debug\接口.exe
+D:\12345C#\基本操作\接口\接口\obj\Debug\接口.pdb
+D:\12345C#\基本操作\接口\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache

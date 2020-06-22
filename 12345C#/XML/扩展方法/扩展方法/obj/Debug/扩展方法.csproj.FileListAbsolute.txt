@@ -1,0 +1,9 @@
+D:\12345前端\12345XML\扩展方法\扩展方法\bin\Debug\扩展方法.exe.config
+D:\12345前端\12345XML\扩展方法\扩展方法\bin\Debug\扩展方法.exe
+D:\12345前端\12345XML\扩展方法\扩展方法\bin\Debug\扩展方法.pdb
+D:\12345前端\12345XML\扩展方法\扩展方法\obj\Debug\扩展方法.csprojResolveAssemblyReference.cache
+D:\12345前端\12345XML\扩展方法\扩展方法\obj\Debug\扩展方法.exe
+D:\12345前端\12345XML\扩展方法\扩展方法\obj\Debug\扩展方法.pdb
+D:\12345C#\XML\扩展方法\扩展方法\bin\Debug\扩展方法.exe.config
+D:\12345C#\XML\扩展方法\扩展方法\obj\Debug\扩展方法.exe
+D:\12345C#\XML\扩展方法\扩展方法\obj\Debug\扩展方法.pdb

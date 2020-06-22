@@ -1,0 +1,11 @@
+D:\12345C#\特性\ZooMap\ZooMap\bin\Debug\ZooMap.exe.config
+D:\12345C#\特性\ZooMap\ZooMap\bin\Debug\ZooMap.exe
+D:\12345C#\特性\ZooMap\ZooMap\bin\Debug\ZooMap.pdb
+D:\12345C#\特性\ZooMap\ZooMap\bin\Debug\ShowAnimal.dll
+D:\12345C#\特性\ZooMap\ZooMap\bin\Debug\ShowAnimal.pdb
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.csprojResolveAssemblyReference.cache
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.Form1.resources
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.Properties.Resources.resources
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.csproj.GenerateResource.Cache
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.exe
+D:\12345C#\特性\ZooMap\ZooMap\obj\Debug\ZooMap.pdb

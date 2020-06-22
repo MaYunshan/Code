@@ -1,0 +1,6 @@
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\bin\Debug\基本图形的绘制.exe.config
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\bin\Debug\基本图形的绘制.exe
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\bin\Debug\基本图形的绘制.pdb
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\obj\Debug\基本图形的绘制.csprojResolveAssemblyReference.cache
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\obj\Debug\基本图形的绘制.exe
+D:\12345C#\图形图像\基本图形的绘制\基本图形的绘制\obj\Debug\基本图形的绘制.pdb

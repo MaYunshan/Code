@@ -1,0 +1,9 @@
+D:\12345C#\基本操作\控件布局\控件布局\bin\Debug\控件布局.exe.config
+D:\12345C#\基本操作\控件布局\控件布局\bin\Debug\控件布局.exe
+D:\12345C#\基本操作\控件布局\控件布局\bin\Debug\控件布局.pdb
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.csprojResolveAssemblyReference.cache
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.Form1.resources
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.Properties.Resources.resources
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.csproj.GenerateResource.Cache
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.exe
+D:\12345C#\基本操作\控件布局\控件布局\obj\Debug\控件布局.pdb

@@ -1,0 +1,5 @@
+D:\12345C#\文件操作\Paths\Paths\bin\Debug\Paths.exe.config
+D:\12345C#\文件操作\Paths\Paths\bin\Debug\Paths.exe
+D:\12345C#\文件操作\Paths\Paths\bin\Debug\Paths.pdb
+D:\12345C#\文件操作\Paths\Paths\obj\Debug\Paths.exe
+D:\12345C#\文件操作\Paths\Paths\obj\Debug\Paths.pdb

@@ -1,0 +1,9 @@
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\bin\Debug\DNs类的使用.exe.config
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.csprojResolveAssemblyReference.cache
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.Form1.resources
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.Properties.Resources.resources
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.csproj.GenerateResource.Cache
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\bin\Debug\DNs类的使用.exe
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\bin\Debug\DNs类的使用.pdb
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.exe
+D:\12345C#\网络编程\DNs类的使用\DNs类的使用\obj\Debug\DNs类的使用.pdb

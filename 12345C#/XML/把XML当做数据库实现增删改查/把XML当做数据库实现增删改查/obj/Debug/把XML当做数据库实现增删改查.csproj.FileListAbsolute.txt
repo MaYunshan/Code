@@ -1,0 +1,10 @@
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\bin\Debug\把XML当做数据库实现增删改查.exe.config
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\bin\Debug\把XML当做数据库实现增删改查.exe
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\bin\Debug\把XML当做数据库实现增删改查.pdb
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.Form1.resources
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.Properties.Resources.resources
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.csproj.GenerateResource.Cache
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.exe
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.pdb
+D:\12345C#\XML\把XML当做数据库实现增删改查\把XML当做数据库实现增删改查\obj\Debug\把XML当做数据库实现增删改查.FrmLogin.resources

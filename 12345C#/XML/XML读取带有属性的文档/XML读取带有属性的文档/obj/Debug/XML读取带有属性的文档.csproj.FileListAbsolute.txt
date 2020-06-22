@@ -1,0 +1,6 @@
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\bin\Debug\XML读取带有属性的文档.exe.config
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\bin\Debug\XML读取带有属性的文档.exe
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\bin\Debug\XML读取带有属性的文档.pdb
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\obj\Debug\XML读取带有属性的文档.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\obj\Debug\XML读取带有属性的文档.exe
+D:\12345C#\XML\XML读取带有属性的文档\XML读取带有属性的文档\obj\Debug\XML读取带有属性的文档.pdb

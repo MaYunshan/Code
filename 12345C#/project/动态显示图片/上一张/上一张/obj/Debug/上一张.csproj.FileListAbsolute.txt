@@ -1,0 +1,9 @@
+D:\12345C#\project\动态显示图片\上一张\上一张\bin\Debug\上一张.exe.config
+D:\12345C#\project\动态显示图片\上一张\上一张\bin\Debug\上一张.exe
+D:\12345C#\project\动态显示图片\上一张\上一张\bin\Debug\上一张.pdb
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.csprojResolveAssemblyReference.cache
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.Form1.resources
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.Properties.Resources.resources
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.csproj.GenerateResource.Cache
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.exe
+D:\12345C#\project\动态显示图片\上一张\上一张\obj\Debug\上一张.pdb

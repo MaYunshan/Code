@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件流的异常", "文件流的异常\文件流的异常.csproj", "{7D7425CE-43B7-4B8B-BAD7-809027C64477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "委托处理文件", "委托处理文件\委托处理文件.csproj", "{02A469EF-73DD-4A6F-9D6A-CD8BCAD30F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取文本文件", "读取文本文件\读取文本文件.csproj", "{A6454118-D4AF-44B3-891F-C65D5A09EF40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7425CE-43B7-4B8B-BAD7-809027C64477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7425CE-43B7-4B8B-BAD7-809027C64477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7425CE-43B7-4B8B-BAD7-809027C64477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7425CE-43B7-4B8B-BAD7-809027C64477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A469EF-73DD-4A6F-9D6A-CD8BCAD30F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A469EF-73DD-4A6F-9D6A-CD8BCAD30F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A469EF-73DD-4A6F-9D6A-CD8BCAD30F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A469EF-73DD-4A6F-9D6A-CD8BCAD30F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6454118-D4AF-44B3-891F-C65D5A09EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6454118-D4AF-44B3-891F-C65D5A09EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6454118-D4AF-44B3-891F-C65D5A09EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6454118-D4AF-44B3-891F-C65D5A09EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

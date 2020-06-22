@@ -1,0 +1,9 @@
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\bin\Debug\XML输入信息保存到listView.exe.config
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\bin\Debug\XML输入信息保存到listView.exe
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\bin\Debug\XML输入信息保存到listView.pdb
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.Form1.resources
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.Properties.Resources.resources
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.csproj.GenerateResource.Cache
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.exe
+D:\12345C#\XML\XML输入信息保存到listView\XML输入信息保存到listView\obj\Debug\XML输入信息保存到listView.pdb

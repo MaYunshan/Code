@@ -1,0 +1,6 @@
+D:\12345C#\线程\线程间通信\三个信号触发\bin\Debug\三个信号触发.exe.config
+D:\12345C#\线程\线程间通信\三个信号触发\bin\Debug\三个信号触发.exe
+D:\12345C#\线程\线程间通信\三个信号触发\bin\Debug\三个信号触发.pdb
+D:\12345C#\线程\线程间通信\三个信号触发\obj\Debug\三个信号触发.exe
+D:\12345C#\线程\线程间通信\三个信号触发\obj\Debug\三个信号触发.pdb
+D:\12345C#\线程\线程间通信\三个信号触发\obj\Debug\三个信号触发.csprojResolveAssemblyReference.cache

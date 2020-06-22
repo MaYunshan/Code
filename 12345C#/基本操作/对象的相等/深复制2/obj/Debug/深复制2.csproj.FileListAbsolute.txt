@@ -1,0 +1,6 @@
+D:\12345C#\基本操作\对象的相等\深复制2\bin\Debug\深复制2.exe.config
+D:\12345C#\基本操作\对象的相等\深复制2\bin\Debug\深复制2.exe
+D:\12345C#\基本操作\对象的相等\深复制2\bin\Debug\深复制2.pdb
+D:\12345C#\基本操作\对象的相等\深复制2\obj\Debug\深复制2.csprojResolveAssemblyReference.cache
+D:\12345C#\基本操作\对象的相等\深复制2\obj\Debug\深复制2.exe
+D:\12345C#\基本操作\对象的相等\深复制2\obj\Debug\深复制2.pdb

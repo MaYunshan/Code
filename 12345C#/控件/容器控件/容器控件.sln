@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "容器控件", "容器控件\容器控件.csproj", "{7F87A888-1DFE-4731-B057-357841BEC106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "选项卡", "选项卡\选项卡.csproj", "{B1778C6B-FB80-4C9A-9531-8C90FE5B7451}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F87A888-1DFE-4731-B057-357841BEC106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F87A888-1DFE-4731-B057-357841BEC106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F87A888-1DFE-4731-B057-357841BEC106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F87A888-1DFE-4731-B057-357841BEC106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1778C6B-FB80-4C9A-9531-8C90FE5B7451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1778C6B-FB80-4C9A-9531-8C90FE5B7451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1778C6B-FB80-4C9A-9531-8C90FE5B7451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1778C6B-FB80-4C9A-9531-8C90FE5B7451}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

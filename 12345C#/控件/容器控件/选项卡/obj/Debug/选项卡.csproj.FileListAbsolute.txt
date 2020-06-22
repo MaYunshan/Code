@@ -1,0 +1,9 @@
+D:\12345C#\第十一章\容器控件\选项卡\bin\Debug\选项卡.exe.config
+D:\12345C#\第十一章\容器控件\选项卡\bin\Debug\选项卡.exe
+D:\12345C#\第十一章\容器控件\选项卡\bin\Debug\选项卡.pdb
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.Form1.resources
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.Properties.Resources.resources
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.csproj.GenerateResource.Cache
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.exe
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.pdb
+D:\12345C#\第十一章\容器控件\选项卡\obj\Debug\选项卡.csprojResolveAssemblyReference.cache

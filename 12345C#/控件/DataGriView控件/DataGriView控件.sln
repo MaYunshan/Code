@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGriView控件", "DataGriView控件\DataGriView控件.csproj", "{1A10225F-24F4-4FF4-87EE-591591594552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "修改DataGriView的数据", "修改DataGriView的数据\修改DataGriView的数据.csproj", "{5D59620D-70CB-4972-947E-5702208C1E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGriView选中行变色", "DataGriView选中行变色\DataGriView选中行变色.csproj", "{0209B143-04D8-4114-9859-F9A67D4F1D8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridView中添加数据", "DataGridView中添加数据\DataGridView中添加数据.csproj", "{1E0696F9-9F79-427B-A74D-6D25BDEAD939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A10225F-24F4-4FF4-87EE-591591594552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A10225F-24F4-4FF4-87EE-591591594552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A10225F-24F4-4FF4-87EE-591591594552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A10225F-24F4-4FF4-87EE-591591594552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D59620D-70CB-4972-947E-5702208C1E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D59620D-70CB-4972-947E-5702208C1E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D59620D-70CB-4972-947E-5702208C1E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D59620D-70CB-4972-947E-5702208C1E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0209B143-04D8-4114-9859-F9A67D4F1D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0209B143-04D8-4114-9859-F9A67D4F1D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0209B143-04D8-4114-9859-F9A67D4F1D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0209B143-04D8-4114-9859-F9A67D4F1D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0696F9-9F79-427B-A74D-6D25BDEAD939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0696F9-9F79-427B-A74D-6D25BDEAD939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0696F9-9F79-427B-A74D-6D25BDEAD939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0696F9-9F79-427B-A74D-6D25BDEAD939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

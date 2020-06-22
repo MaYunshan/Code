@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PersonList>
+  <Person>
+    <Name>张三</Name>
+    <ID>1</ID>
+    <Age>10</Age>
+    <Email>123@qq.com</Email>
+  </Person>
+  <Person>
+    <Name>李四</Name>
+    <ID>2</ID>
+    <Age>20</Age>
+    <Email>234@qq.com</Email>
+  </Person>
+  <Person>
+    <Name>王五</Name>
+    <ID>3</ID>
+    <Age>30</Age>
+    <Email>345@qq.com</Email>
+  </Person>
+  <Person>
+    <Name>赵六</Name>
+    <ID>4</ID>
+    <Age>15</Age>
+    <Email>456@qq.com</Email>
+  </Person>
+</PersonList>

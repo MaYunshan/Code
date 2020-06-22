@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<School>
+  <class id="c01">
+    <Student id="c011">
+      <Name>唐作程</Name>
+      <Age>20</Age>
+      <Sex>男</Sex>
+    </Student>
+  </class>
+</School>

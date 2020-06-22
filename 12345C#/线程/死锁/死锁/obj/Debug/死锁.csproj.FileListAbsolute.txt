@@ -1,0 +1,6 @@
+D:\12345C#\线程\死锁\死锁\bin\Debug\死锁.exe.config
+D:\12345C#\线程\死锁\死锁\bin\Debug\死锁.exe
+D:\12345C#\线程\死锁\死锁\bin\Debug\死锁.pdb
+D:\12345C#\线程\死锁\死锁\obj\Debug\死锁.exe
+D:\12345C#\线程\死锁\死锁\obj\Debug\死锁.pdb
+D:\12345C#\线程\死锁\死锁\obj\Debug\死锁.csprojResolveAssemblyReference.cache

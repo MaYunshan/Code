@@ -1,0 +1,8 @@
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\bin\Debug\Cards集合.exe.config
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\bin\Debug\Cards集合.exe
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\bin\Debug\Cards集合.pdb
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\obj\Debug\Cards集合.csprojResolveAssemblyReference.cache
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\obj\Debug\Cards集合.exe
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\obj\Debug\Cards集合.pdb
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\bin\Debug\Ch11CardLib.dll
+D:\12345C#\数据类型基础\扑克牌\Cards集合\Cards集合\bin\Debug\Ch11CardLib.pdb

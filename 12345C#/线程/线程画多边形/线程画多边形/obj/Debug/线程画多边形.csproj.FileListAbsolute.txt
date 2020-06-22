@@ -1,0 +1,9 @@
+D:\12345C#\线程\线程画多边形\线程画多边形\bin\Debug\线程画多边形.exe.config
+D:\12345C#\线程\线程画多边形\线程画多边形\bin\Debug\线程画多边形.exe
+D:\12345C#\线程\线程画多边形\线程画多边形\bin\Debug\线程画多边形.pdb
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.csprojResolveAssemblyReference.cache
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.Form1.resources
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.Properties.Resources.resources
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.csproj.GenerateResource.Cache
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.exe
+D:\12345C#\线程\线程画多边形\线程画多边形\obj\Debug\线程画多边形.pdb

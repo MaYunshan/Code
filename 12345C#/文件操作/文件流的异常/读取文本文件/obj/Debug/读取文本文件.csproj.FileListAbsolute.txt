@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\文件流的异常\读取文本文件\bin\Debug\读取文本文件.exe.config
+D:\12345C#\文件操作\文件流的异常\读取文本文件\bin\Debug\读取文本文件.exe
+D:\12345C#\文件操作\文件流的异常\读取文本文件\bin\Debug\读取文本文件.pdb
+D:\12345C#\文件操作\文件流的异常\读取文本文件\obj\Debug\读取文本文件.exe
+D:\12345C#\文件操作\文件流的异常\读取文本文件\obj\Debug\读取文本文件.pdb
+D:\12345C#\文件操作\文件流的异常\读取文本文件\obj\Debug\读取文本文件.csprojResolveAssemblyReference.cache

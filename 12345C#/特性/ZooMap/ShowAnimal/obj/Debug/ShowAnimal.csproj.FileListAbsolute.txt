@@ -1,0 +1,6 @@
+D:\12345C#\特性\ZooMap\ShowAnimal\bin\Debug\ShowAnimal.dll
+D:\12345C#\特性\ZooMap\ShowAnimal\bin\Debug\ShowAnimal.pdb
+D:\12345C#\特性\ZooMap\ShowAnimal\obj\Debug\ShowAnimal.ImageResource.resources
+D:\12345C#\特性\ZooMap\ShowAnimal\obj\Debug\ShowAnimal.csproj.GenerateResource.Cache
+D:\12345C#\特性\ZooMap\ShowAnimal\obj\Debug\ShowAnimal.dll
+D:\12345C#\特性\ZooMap\ShowAnimal\obj\Debug\ShowAnimal.pdb

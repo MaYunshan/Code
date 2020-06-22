@@ -1,0 +1,8 @@
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\bin\Debug\字符串匹配.exe.config
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\bin\Debug\字符串匹配.exe
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\bin\Debug\字符串匹配.pdb
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\obj\Debug\字符串匹配.csprojResolveAssemblyReference.cache
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\obj\Debug\字符串匹配.Properties.Resources.resources
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\obj\Debug\字符串匹配.csproj.GenerateResource.Cache
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\obj\Debug\字符串匹配.exe
+D:\12345C#\正则表达式\字符串匹配\字符串匹配\obj\Debug\字符串匹配.pdb

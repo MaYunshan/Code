@@ -1,0 +1,6 @@
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\bin\Debug\模拟磁盘打开文件.exe.config
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\bin\Debug\模拟磁盘打开文件.exe
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\bin\Debug\模拟磁盘打开文件.pdb
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\obj\Debug\模拟磁盘打开文件.csprojResolveAssemblyReference.cache
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\obj\Debug\模拟磁盘打开文件.exe
+D:\12345C#\project\模拟磁盘打开文件\模拟磁盘打开文件\obj\Debug\模拟磁盘打开文件.pdb

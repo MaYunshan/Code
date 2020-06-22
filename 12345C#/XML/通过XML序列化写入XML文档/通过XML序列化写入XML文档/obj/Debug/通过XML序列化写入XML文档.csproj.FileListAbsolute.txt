@@ -1,0 +1,6 @@
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\bin\Debug\通过XML序列化写入XML文档.exe.config
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\bin\Debug\通过XML序列化写入XML文档.exe
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\bin\Debug\通过XML序列化写入XML文档.pdb
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\obj\Debug\通过XML序列化写入XML文档.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\obj\Debug\通过XML序列化写入XML文档.exe
+D:\12345C#\XML\通过XML序列化写入XML文档\通过XML序列化写入XML文档\obj\Debug\通过XML序列化写入XML文档.pdb

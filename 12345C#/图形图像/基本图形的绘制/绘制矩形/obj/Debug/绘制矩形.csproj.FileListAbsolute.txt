@@ -1,0 +1,9 @@
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\bin\Debug\绘制矩形.exe.config
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\bin\Debug\绘制矩形.exe
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\bin\Debug\绘制矩形.pdb
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.csprojResolveAssemblyReference.cache
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.Form1.resources
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.Properties.Resources.resources
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.csproj.GenerateResource.Cache
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.exe
+D:\12345C#\图形图像\基本图形的绘制\绘制矩形\obj\Debug\绘制矩形.pdb

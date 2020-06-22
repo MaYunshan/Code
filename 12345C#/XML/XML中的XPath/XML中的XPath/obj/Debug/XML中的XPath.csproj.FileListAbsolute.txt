@@ -1,0 +1,6 @@
+D:\12345C#\XML\XML中的XPath\XML中的XPath\bin\Debug\XML中的XPath.exe.config
+D:\12345C#\XML\XML中的XPath\XML中的XPath\bin\Debug\XML中的XPath.exe
+D:\12345C#\XML\XML中的XPath\XML中的XPath\bin\Debug\XML中的XPath.pdb
+D:\12345C#\XML\XML中的XPath\XML中的XPath\obj\Debug\XML中的XPath.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\XML中的XPath\XML中的XPath\obj\Debug\XML中的XPath.exe
+D:\12345C#\XML\XML中的XPath\XML中的XPath\obj\Debug\XML中的XPath.pdb

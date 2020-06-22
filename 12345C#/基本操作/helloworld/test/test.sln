@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登录", "登录\登录.csproj", "{69056CCA-FD90-48E3-AA34-09C1F925619C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FE86F93D-E63F-46DF-ADBB-6DD8C989BBAF}.Release|Win32.ActiveCfg = Release|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{69056CCA-FD90-48E3-AA34-09C1F925619C}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

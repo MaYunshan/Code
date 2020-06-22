@@ -1,0 +1,6 @@
+D:\12345C#\XML\XML基本使用\XML基本使用\bin\Debug\XML基本使用.exe.config
+D:\12345C#\XML\XML基本使用\XML基本使用\bin\Debug\XML基本使用.exe
+D:\12345C#\XML\XML基本使用\XML基本使用\bin\Debug\XML基本使用.pdb
+D:\12345C#\XML\XML基本使用\XML基本使用\obj\Debug\XML基本使用.csprojResolveAssemblyReference.cache
+D:\12345C#\XML\XML基本使用\XML基本使用\obj\Debug\XML基本使用.exe
+D:\12345C#\XML\XML基本使用\XML基本使用\obj\Debug\XML基本使用.pdb

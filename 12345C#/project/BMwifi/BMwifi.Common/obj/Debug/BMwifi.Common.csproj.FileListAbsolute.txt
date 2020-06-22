@@ -1,0 +1,4 @@
+D:\12345C#\project\BMwifi\BMwifi.Common\bin\Debug\BMwifi.Common.dll
+D:\12345C#\project\BMwifi\BMwifi.Common\bin\Debug\BMwifi.Common.pdb
+D:\12345C#\project\BMwifi\BMwifi.Common\obj\Debug\BMwifi.Common.dll
+D:\12345C#\project\BMwifi\BMwifi.Common\obj\Debug\BMwifi.Common.pdb

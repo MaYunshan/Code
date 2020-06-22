@@ -1,0 +1,8 @@
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\bin\Debug\OnPaint.exe.config
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\bin\Debug\OnPaint.exe
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\bin\Debug\OnPaint.pdb
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\obj\Debug\OnPaint.Form1.resources
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\obj\Debug\OnPaint.Properties.Resources.resources
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\obj\Debug\OnPaint.csproj.GenerateResource.Cache
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\obj\Debug\OnPaint.exe
+D:\12345C#\图形图像\基本图形的绘制\OnPaint\obj\Debug\OnPaint.pdb

@@ -1,0 +1,6 @@
+D:\12345C#\正则表达式\字符串匹配\匹配查找\bin\Debug\匹配查找.exe.config
+D:\12345C#\正则表达式\字符串匹配\匹配查找\bin\Debug\匹配查找.exe
+D:\12345C#\正则表达式\字符串匹配\匹配查找\bin\Debug\匹配查找.pdb
+D:\12345C#\正则表达式\字符串匹配\匹配查找\obj\Debug\匹配查找.exe
+D:\12345C#\正则表达式\字符串匹配\匹配查找\obj\Debug\匹配查找.pdb
+D:\12345C#\正则表达式\字符串匹配\匹配查找\obj\Debug\匹配查找.csprojResolveAssemblyReference.cache

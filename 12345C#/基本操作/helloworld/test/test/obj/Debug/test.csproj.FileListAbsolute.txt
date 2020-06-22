@@ -1,0 +1,5 @@
+D:\12345C#\基本操作\helloworld\test\test\bin\Debug\test.exe.config
+D:\12345C#\基本操作\helloworld\test\test\bin\Debug\test.exe
+D:\12345C#\基本操作\helloworld\test\test\bin\Debug\test.pdb
+D:\12345C#\基本操作\helloworld\test\test\obj\Debug\test.exe
+D:\12345C#\基本操作\helloworld\test\test\obj\Debug\test.pdb

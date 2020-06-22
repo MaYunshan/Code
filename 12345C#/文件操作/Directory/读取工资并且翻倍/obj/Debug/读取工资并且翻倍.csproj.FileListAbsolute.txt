@@ -1,0 +1,5 @@
+D:\12345C#\文件操作\Directory\读取工资并且翻倍\bin\Debug\读取工资并且翻倍.exe.config
+D:\12345C#\文件操作\Directory\读取工资并且翻倍\bin\Debug\读取工资并且翻倍.exe
+D:\12345C#\文件操作\Directory\读取工资并且翻倍\bin\Debug\读取工资并且翻倍.pdb
+D:\12345C#\文件操作\Directory\读取工资并且翻倍\obj\Debug\读取工资并且翻倍.exe
+D:\12345C#\文件操作\Directory\读取工资并且翻倍\obj\Debug\读取工资并且翻倍.pdb

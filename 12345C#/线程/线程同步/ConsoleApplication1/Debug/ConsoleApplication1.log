@@ -1,0 +1,85 @@
+﻿生成启动时间为 2018/11/6 19:09:48。
+     1>项目“D:\12345C#\线程\线程同步\ConsoleApplication1\ConsoleApplication1.vcxproj”在节点 6 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(1): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(1): error C2146: 语法错误: 缺少“;”(在标识符“mutex”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(1): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(1): error C2086: “int mutex”: 重定义
+                 d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(1) : 参见“mutex”的声明
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(2): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(2): error C2146: 语法错误: 缺少“;”(在标识符“sum”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(2): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(5): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(5): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(5): error C2146: 语法错误: 缺少“;”(在标识符“start”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(5): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(5): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(14): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(14): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(14): error C2146: 语法错误: 缺少“;”(在标识符“end”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(14): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(14): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2039: “cout”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2065: “cout”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2039: “endl”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(15): error C2065: “endl”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(20): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(20): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(20): error C2146: 语法错误: 缺少“;”(在标识符“start”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(20): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(20): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(29): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(29): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(29): error C2146: 语法错误: 缺少“;”(在标识符“end”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(29): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(29): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2039: “cout”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2065: “cout”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2039: “endl”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(30): error C2065: “endl”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(35): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(35): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(35): error C2146: 语法错误: 缺少“;”(在标识符“start”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(35): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(35): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(36): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(36): error C2065: “thread”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(36): error C2146: 语法错误: 缺少“;”(在标识符“t1”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(36): error C3861: “t1”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(37): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(37): error C2065: “thread”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(37): error C2146: 语法错误: 缺少“;”(在标识符“t2”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(37): error C3861: “t2”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(38): error C2065: “t1”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(38): error C2228: “.join”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(39): error C2065: “t2”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(39): error C2228: “.join”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(41): error C2653: “boost”: 不是类或命名空间名称
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(41): error C2065: “ptime”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(41): error C2146: 语法错误: 缺少“;”(在标识符“end”的前面)
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(41): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(41): error C3861: “local_time”:  找不到标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2039: “cout”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2065: “cout”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2065: “end”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2065: “start”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2039: “endl”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(42): error C2065: “endl”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(43): error C2039: “cout”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(43): error C2065: “cout”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(43): error C2039: “endl”: 不是“std”的成员
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(43): error C2065: “endl”: 未声明的标识符
+     1>d:\12345c#\线程\线程同步\consoleapplication1\源.cpp(44): error C3861: “system”:  找不到标识符
+     1>已完成生成项目“D:\12345C#\线程\线程同步\ConsoleApplication1\ConsoleApplication1.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.82

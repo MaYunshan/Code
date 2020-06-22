@@ -1,0 +1,9 @@
+D:\12345C#\基本操作\计算器\计算器\bin\Debug\计算器.exe.config
+D:\12345C#\基本操作\计算器\计算器\bin\Debug\计算器.exe
+D:\12345C#\基本操作\计算器\计算器\bin\Debug\计算器.pdb
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.exe
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.pdb
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.frmMain.resources
+D:\12345C#\基本操作\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache

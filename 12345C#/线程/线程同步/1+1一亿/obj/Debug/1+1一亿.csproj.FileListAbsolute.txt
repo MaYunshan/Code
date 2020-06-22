@@ -1,0 +1,6 @@
+D:\12345C#\线程\线程同步\1+1一亿\bin\Debug\1+1一亿.exe.config
+D:\12345C#\线程\线程同步\1+1一亿\bin\Debug\1+1一亿.exe
+D:\12345C#\线程\线程同步\1+1一亿\bin\Debug\1+1一亿.pdb
+D:\12345C#\线程\线程同步\1+1一亿\obj\Debug\1+1一亿.csprojResolveAssemblyReference.cache
+D:\12345C#\线程\线程同步\1+1一亿\obj\Debug\1+1一亿.exe
+D:\12345C#\线程\线程同步\1+1一亿\obj\Debug\1+1一亿.pdb

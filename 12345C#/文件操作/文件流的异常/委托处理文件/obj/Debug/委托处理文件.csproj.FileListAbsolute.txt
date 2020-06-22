@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\文件流的异常\委托处理文件\bin\Debug\委托处理文件.exe.config
+D:\12345C#\文件操作\文件流的异常\委托处理文件\bin\Debug\委托处理文件.exe
+D:\12345C#\文件操作\文件流的异常\委托处理文件\bin\Debug\委托处理文件.pdb
+D:\12345C#\文件操作\文件流的异常\委托处理文件\obj\Debug\委托处理文件.csprojResolveAssemblyReference.cache
+D:\12345C#\文件操作\文件流的异常\委托处理文件\obj\Debug\委托处理文件.exe
+D:\12345C#\文件操作\文件流的异常\委托处理文件\obj\Debug\委托处理文件.pdb

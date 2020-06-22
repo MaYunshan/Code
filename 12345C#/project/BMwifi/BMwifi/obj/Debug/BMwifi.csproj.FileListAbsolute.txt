@@ -1,0 +1,11 @@
+D:\12345C#\project\BMwifi\BMwifi\bin\Debug\BMwifi.exe.config
+D:\12345C#\project\BMwifi\BMwifi\bin\Debug\BMwifi.exe
+D:\12345C#\project\BMwifi\BMwifi\bin\Debug\BMwifi.pdb
+D:\12345C#\project\BMwifi\BMwifi\bin\Debug\BMwifi.Common.dll
+D:\12345C#\project\BMwifi\BMwifi\bin\Debug\BMwifi.Common.pdb
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.csprojResolveAssemblyReference.cache
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.Form1.resources
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.Properties.Resources.resources
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.csproj.GenerateResource.Cache
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.exe
+D:\12345C#\project\BMwifi\BMwifi\obj\Debug\BMwifi.pdb

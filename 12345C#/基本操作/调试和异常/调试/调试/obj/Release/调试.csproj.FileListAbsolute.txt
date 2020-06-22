@@ -1,0 +1,5 @@
+D:\12345C#\基本操作\调试和异常\调试\调试\bin\Release\调试.exe.config
+D:\12345C#\基本操作\调试和异常\调试\调试\bin\Release\调试.exe
+D:\12345C#\基本操作\调试和异常\调试\调试\bin\Release\调试.pdb
+D:\12345C#\基本操作\调试和异常\调试\调试\obj\Release\调试.exe
+D:\12345C#\基本操作\调试和异常\调试\调试\obj\Release\调试.pdb

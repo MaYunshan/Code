@@ -1,0 +1,6 @@
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\bin\Debug\读取二进制文件.exe.config
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\bin\Debug\读取二进制文件.exe
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\bin\Debug\读取二进制文件.pdb
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\obj\Debug\读取二进制文件.csprojResolveAssemblyReference.cache
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\obj\Debug\读取二进制文件.exe
+D:\12345C#\文件操作\读取二进制文件\读取二进制文件\obj\Debug\读取二进制文件.pdb

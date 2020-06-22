@@ -1,0 +1,6 @@
+D:\12345C#\线程\进程\Process\Process\bin\Debug\Process.exe.config
+D:\12345C#\线程\进程\Process\Process\bin\Debug\Process.exe
+D:\12345C#\线程\进程\Process\Process\bin\Debug\Process.pdb
+D:\12345C#\线程\进程\Process\Process\obj\Debug\进程Process.csprojResolveAssemblyReference.cache
+D:\12345C#\线程\进程\Process\Process\obj\Debug\Process.exe
+D:\12345C#\线程\进程\Process\Process\obj\Debug\Process.pdb

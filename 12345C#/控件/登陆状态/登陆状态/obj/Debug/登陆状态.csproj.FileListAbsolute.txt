@@ -1,0 +1,9 @@
+D:\12345C#\第十一章\登陆状态\登陆状态\bin\Debug\登陆状态.exe.config
+D:\12345C#\第十一章\登陆状态\登陆状态\bin\Debug\登陆状态.exe
+D:\12345C#\第十一章\登陆状态\登陆状态\bin\Debug\登陆状态.pdb
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.csprojResolveAssemblyReference.cache
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.Form1.resources
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.Properties.Resources.resources
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.csproj.GenerateResource.Cache
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.exe
+D:\12345C#\第十一章\登陆状态\登陆状态\obj\Debug\登陆状态.pdb
