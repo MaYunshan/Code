@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace理解为实现类的全路径 -->
+<mapper namespace="com.mys.mapper.TeacherMapper">
+	<!-- 
+		id:代表方法名称
+		parameterType：参数类型
+		resultType：返回类型[如果返回值是list类型，在resultType中写List的泛型，
+					因为MyBatis是对JDBC的封装，一行一行读取数据]
+	 -->
+	
+	<resultMap type="teacher" id="teachermapper">
+		<id column="id" property="id1" />
+		<result column="name" property="name1" />
+	</resultMap>
+	
+	<select id="selectAll" resultMap="teachermapper">
+		select * from  teacher
+	</select>	
+</mapper>
+	 
+

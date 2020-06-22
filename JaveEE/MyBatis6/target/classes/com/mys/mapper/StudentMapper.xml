@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+  <mapper namespace="com.mys.mapper.StudentMapper">
+  	<select id="selectAll" resultType="com.mys.bean.Student">
+  		select * from student
+  	</select>
+	
+	<!-- 根据id查询学生信息，传入参数是Integer类型，MyBatis内置的别名对应为int 
+			只有一个参数时，对#{}里面的内容没有要求，只要写内容就行，，而且parameterType属性不写也可以
+	-->
+	<select id="selectbyId"  parameterType="int" resultType="com.mys.bean.Student">
+		select id,name,age,sex from student where id=#{id13}
+	</select>
+	
+	<!-- 根据学生name查询信息，传入参数是String类型，parameterType="string" -->
+	<select id="selectbyName"  resultType="com.mys.bean.Student">
+		select id,name,age,sex from student where name like concat(#{0},'%')
+	</select>
+	
+	<!-- 根据学生姓名和年龄查询信息，传入参数是对象或者map,使用#{key}来获取传入参数 -->
+	<select id="selectbyNameAndAge" parameterType="map" resultType="com.mys.bean.Student">
+		select id,name,age,sex from student 
+			where name like concat(#{name},'%')
+			and age=#{age}
+	</select>
+	
+	<!-- 根据年龄范围查询学生信息, 传入参数是map，
+		 因为在config.xml中使用了别名，因此此处不需要写namespace的全名，写别名即可 -->
+	<select id="selectbyAge" parameterType="map" resultType="student">
+		select id,name,age,sex from student
+			where age between #{floor} and #{ceil}
+	 </select> 
+	 
+	 <!-- 利用MyBatis实现新增，标签 没有返回值类型，此处仍然利用了别名student -->
+	 <insert id="insertStudent" parameterType="student">
+	 	insert into student values(default,#{name},#{age},#{sex})
+	 </insert>
+	 
+	 <!-- 利用MyBatis实现修改，标签没有返回值 -->
+	 <update id="updateStudent" parameterType="student">
+	 	update student set name=#{name},age=#{age},sex=#{sex} where id=#id
+	 </update> 
+	 
+	 <!-- 利用Mybatis实现删除，标签没有返回值 -->
+	 <delete id="deleteStudent" parameterType="int">
+	 	delete from student where id=#{id}
+	 </delete>
+  </mapper>

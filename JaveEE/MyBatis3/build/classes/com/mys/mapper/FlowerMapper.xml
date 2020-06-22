@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- namespace理解为实现类的全路径 -->
+<mapper namespace="com.mys.mapper.FlowerMapper">
+	<!-- 
+		id:代表方法名称
+		parameterType：参数类型
+		resultType：返回类型[如果返回值是list类型，在resultType中写List的泛型，
+					因为MyBatis是对JDBC的封装，一行一行读取数据]
+	 -->
+	 <select id="selAll" resultType="com.mys.bean.Flower">
+	 	select * from flower
+	 </select>
+	 
+	 <select id="selbyId" resultType="int">
+	 	select count(*) from flower
+	 </select>
+	 
+	 <select id="selMap" resultType="com.mys.bean.Flower" >
+	 	select * from flower
+	 </select>
+	 
+	 <!--  根据多个参数查询-->
+	 <select id="selbyNameAndId" resultType="com.mys.bean.Flower">
+	 	select * from flower where name=#{param1} and id=#{param2}
+		<!-- select * from flower where name=#{0} and id=#{1} -->
+	 </select>
+	 
+	 <!-- 动态SQL，name和producaiton的值可以为空可以不为空 -->
+	 <select id="selbyNameAndProducation" resultType="com.mys.bean.Flower">
+	 	select * from flower where 1=1
+	 	<if test="name!=null and name!=''">
+	 		and name=#{name}
+	 	</if>
+	 	<if test="producation!=null and producation!=''">
+	 		and producation=#{producation}
+	 	</if>
+	 </select>
+	 
+	 <!-- 跟上面语句的效果一样，只是少些了where 1=1 -->
+	 <select id="selbyNameAndProducation" resultType="com.mys.bean.Flower">
+	 	select * from flower
+	 	<where>
+		 	<if test="name!=null and name!=''">
+		 		and name=#{name}
+		 	</if>
+		 	<if test="producation!=null and producation!=''">
+		 		and producation=#{producation}
+		 	</if>
+		 </where>
+	 </select>
+	 
+	 <select id="selbyNameAndProducation" resultType="com.mys.bean.Flower">
+	 	select * from flower
+	 	<where>
+	 		<choose>
+			 	<when test="name!=null and name!=''">
+			 		and name=#{name}
+			 	</when>
+			 	<when test="producation!=null and producation!=''">
+			 		and producation=#{producation}
+			 	</when>
+			 </choose>
+		 </where>
+	 </select>
+	
+</mapper>
+	 
+
